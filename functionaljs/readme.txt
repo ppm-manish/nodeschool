@@ -1,0 +1,1 @@
+Learning Functional Javascripting from NodeSchool
